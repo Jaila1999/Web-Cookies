@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: linear-gradient(135deg, #fff1f8, #eef7ff);
+  color: #3b2f38;
+}
+
+header {
+  text-align: center;
+  padding: 40px 20px;
+  background: #ffd6e8;
+  border-bottom: 6px dotted white;
+}
+
+header h1 {
+  font-size: 2.8rem;
+  margin-bottom: 10px;
+}
+
+header p {
+  font-size: 1.1rem;
+}
+
+main {
+  max-width: 1000px;
+  margin: 30px auto;
+  padding: 20px;
+}
+
+.card {
+  background: white;
+  border-radius: 25px;
+  padding: 25px;
+  margin-bottom: 25px;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.08);
+  border: 3px solid #ffe0ef;
+}
+
+h2 {
+  color: #d95d9f;
+}
+
+h3 {
+  color: #c94f8a;
+}
+
+ol > li {
+  margin-bottom: 20px;
+}
+
+ul {
+  background: #f3faff;
+  padding: 20px 35px;
+  border-radius: 18px;
+}
+
+li {
+  margin: 10px 0;
+}
+
+dl {
+  background: #fff7d6;
+  padding: 20px;
+  border-radius: 18px;
+}
+
+dt {
+  font-weight: bold;
+  color: #b35c00;
+  margin-top: 10px;
+}
+
+dd {
+  margin-bottom: 12px;
+}
+
+button {
+  background: #ff8fc7;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 1rem;
+  margin-top: 15px;
+}
+
+button:hover {
+  background: #d94f93;
+}
+
+#funFact {
+  display: none;
+  margin-top: 15px;
+  padding: 15px;
+  background: #e9f7ff;
+  border-left: 5px solid #83c5f7;
+  border-radius: 12px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #ffd6e8;
+  margin-top: 30px;
+}
