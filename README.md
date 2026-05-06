@@ -25,7 +25,7 @@ The webpage was designed to be visually appealing, interactive, beginner-friendl
 ![Cookie Crumbs Screenshot](image/1.png)
 ![Cookie Crumbs Screenshot 2](image/2.png)
 ![Cookie Crumbs Screenshot 3](image/3.png)
-![Cookie Crumbs Screenshot video](image/video.mp4)
+![Cookie Crumbs Screenshot video](image/video.gif)
 
 ---
 
@@ -110,7 +110,7 @@ project-folder
     ├── 1.png
     ├── 2.png
     ├── 3.png
-    └── video.mp4
+    └── video.gif
     
 
 ---
